@@ -1,4 +1,4 @@
-# 
+# AI-powered Scanner for liquidity sniper bot | slippage-control & trailing-stop is the best liquidity sniper bot, featuring slippage-control and trailing-stop. Fast, smart, and
 
 
 
